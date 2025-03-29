@@ -23,7 +23,7 @@ The template provides a structured and automated approach to optimize production
 
 ## 🚀 Getting Started
 1. **Download the template**: Click on the "Download" button or clone this repository.
-2. **Unblock the files**: Right-click on the downloaded file, go to **Properties > Security**, and check "Unblock" if applicable.
+2. **Unblock the files**: Right-click the downloaded file, go to **Properties**, find the **Security** section, check **Unblock**, and click **OK**.
 3. **Open with Microsoft Excel**: Ensure you have Excel installed (preferably 2016 or later).
 4. **Input your production data**: Enter all the inputs the system requires.
 5. **Review the calculations**: The template will generate MPS & MRP automatically.
